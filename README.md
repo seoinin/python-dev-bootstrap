@@ -12,9 +12,9 @@ Complete Python Development Environment on top of a Vagrant VM.
 * [Vagrant](http://www.vagrantup.com/)
 * [git](http://git-scm.com/downloads)
 or one of the Github GUI clients: [OSX](http://mac.github.com/), [Windows] (http://windows.github.com/), [Eclipse](http://eclipse.github.com/)
-* [python-dev-bootstrap](https://github.com/AnthonyNystrom/python-dev-bootstrap)
+* [python-dev-bootstrap](https://github.com/seoinin/python-dev-bootstrap.git)
 
-		Clone this repo: $ git clone git@github.com:AnthonyNystrom/python-dev-bootstrap.git
+		Clone this repo: $ git clone git@github.com/seoinin/python-dev-bootstrap.git
 		Or, using one of the Github GUI clients, click the button: Clone in {platform}
 
 ## BASIC USAGE
